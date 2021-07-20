@@ -1,7 +1,7 @@
 //Autômato Finito Determinístico e Autômato de Pilha Determinístico//
 
 Algoritmo desenvolvido como requisito para disciplina ECOi13-Teoria da Computação
-na Universidade Federal de Itajubá.
+na Universidade Federal de Itajubá, 2020.
 Linguagem usada: C++
 
 Exemplo de formado de entrada para AFD (Comentários devem ser excluídos):
